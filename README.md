@@ -29,7 +29,7 @@ You may want to change the host in `server.js` and `webpack.config.js` from `loc
 
 ### Dependencies
 
-* Aframe
+* Aframe(https://github.com/aframevr/aframe)
 * React
 * Webpack
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
